@@ -1,0 +1,27 @@
+paterni
+februar 3 paterna po izboru
+buli: kod problema i kod resenja
+chain of responsibility 
+template method 
+state pattern
+
+observer forma/state uml
+
+vezbe 6 adapter pattern pocetak
+1:10:00 template method pattern
+
+vezbe 7 personApp observer pattern
+1:02:00 kod resenja kad se osobe dodaju u oba dialoga combo boxa  se osvezava
+
+vezbe 8  bolonja/bolonja state strategy status
+
+
+vezbe 2020
+
+vezbe 6 prodavnica komp opreme sa tabelom i tabelom zbrinom adapter
+vezbe 7 mvccalculator observer
+vezbe 8 student status state patern
+vezbe 9 coffee machine chain
+i basic review paper state pattern
+vezbe 10 template method pattern unos operacije u konzoli
+vezbe 11 command pattern dodaj studenta(undo redo)
